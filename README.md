@@ -1,5 +1,3 @@
-# Budget App
-
 <h1 align="center">PWA: Online/Offline Budget Trackers</h1>
   
 <p align="center">
@@ -15,13 +13,19 @@
 
 # User Story
 ```
-AS AN avid traveller
+AS AN avid traveler
 I WANT to be able to track my withdrawals and deposits with or without a data/internet connection
 SO THAT my account balance is accurate when I am traveling
+
+COMO viajero ávido, 
+QUIERO poder realizar un seguimiento de mis retiros y depósitos con o sin datos
+
 ```
 
 # Objective
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+
+Ofrecer a los usuarios una forma rápida y sencilla de realizar un seguimiento de su dinero es importante, pero permitirles acceder a esa información en cualquier momento es aún más importante. Tener funcionalidad fuera de línea es primordial para el éxito de nuestras aplicaciones.
 
 ![budget-tracker](/sample.png)
 
