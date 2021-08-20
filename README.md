@@ -1,7 +1,10 @@
 # Budget App
-PWA: Online/Offline Budget Trackers
+## PWA: Online/Offline Budget Trackers
 
 Github Page: https://github.com/cartaya1/budget-app</br>
+
+.
+
 Live Demo: https://damp-cliffs-44350.herokuapp.com/</br>
 
 ![budget-tracker](/sample.png)
